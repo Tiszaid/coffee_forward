@@ -1,19 +1,21 @@
-=beging rdoc
+=begin rdoc
 
-= H1 *Coffee it Forward*
+=  *Coffee it Forward*
 
 
 welcome friends, family and fellow DMZers.
 
-#This program, this _godly_ program is called Coffee it Forward. 
+# This program, this _godly_ program is called Coffee it Forward. 
 
-#This is where you get to gift those who have helped you out in anyway shape or form a cup of coffee. 
+# This is where you get to gift those who have helped you out in anyway shape or form a cup of coffee. 
 
-#We do not teleport the coffee to you, so forgive, we're just not there yet. HOWEVER, you will receive the code and from there you will present it to the barista's.
+# We do not teleport the coffee to you, so forgive, we're just not there yet. HOWEVER, you will receive the code and from there you will present it to the barista's.
 
-#Once you get your coffee, we emplore you to tweet and thank whomever gifted you.
+# Once you get your coffee, we emplore you to tweet and thank whomever gifted you.
 
 
-#Everything you have just read is subject to change, as we are still developing, you never know, we might get this teleporting thing down.
+# Everything you have just read is subject to change, as we are still developing, you never know, we might get this teleporting thing down.
 
 {For more information check out these images of coffee}[http://bit.ly/HRAhFp]
+
+=end
