@@ -1,9 +1,9 @@
-=begin rdoc
+
 
 =  *Coffee it Forward*
 
 
-welcome friends, family and fellow DMZers.
+Welcome friends, family and fellow DMZers.
 
 # This program, this _godly_ program is called Coffee it Forward. 
 
@@ -13,9 +13,7 @@ welcome friends, family and fellow DMZers.
 
 # Once you get your coffee, we emplore you to tweet and thank whomever gifted you.
 
-
 # Everything you have just read is subject to change, as we are still developing, you never know, we might get this teleporting thing down.
 
 {For more information check out these images of coffee}[http://bit.ly/HRAhFp]
 
-=end
